@@ -1,0 +1,18 @@
+As cities across the world grow and the mobility of populations increases, there
+has also been a corresponding increase in the number of vehicles on roads. The 
+result of this has been a proliferation of challenges for authorities with 
+regard to road traffic management. A consequence of this has been congestion 
+of traffic, more accidents, and pollution. Accidents are a still major cause of
+ death, despite the development of sophisticated systems for traffic management 
+and other technologies linked with vehicles. Hence, it is necessary that a 
+common system for road accident management is developed. Road accident 
+management is the centralized handling of a motorist’s claim following a road 
+traffic collision or other damages or mishaps that happen to a vehicle while on
+ or off road. It has been proven that vehicle accidents are one of the main 
+causes of fatalities with more than 100 deaths being reported in the India on a
+ daily basis. The report indicates that the year 2007 experienced more than 
+43,000 deaths as a result of over 10 million reported accidents. Moreover, in 
+most of the countries in the world, a major cause of accidents is poor
+infrastructure for managing traffic. The concept of traffic management systems 
+refers to intelligent public transport mechanisms founded on information 
+obtained in real-time.
